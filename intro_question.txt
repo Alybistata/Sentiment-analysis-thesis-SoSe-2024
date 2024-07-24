@@ -1,0 +1,14 @@
+What is the relevance of online customer reviews in today's business landscape?
+
+In today's day and age, Customer reviews can highly influence how a company performs, regardless of what industry they operate in or what products they offer.
+customers write reviews to voice their concerns and opinions about how their experience with the company was, making this data very valuable for the company.
+Therefor a company should never take their reviews with a grain of salt, instead they should opt to learn from them and extracting as much insight as possible by utlizing newer technologies that can make this process lighter.
+
+Why is sentiment analysis important for businesses?
+
+sentiment analysis, especially within the scope of this thesis can prove very beneficial for a company, as it can -with good accuracy- label the overall sentiment and more specifically label what themes stood out in the review.
+
+
+What specific problem does your thesis address?
+What are your main objectives for this research?
+How could your findings benefit academic research and business practices?
